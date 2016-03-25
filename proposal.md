@@ -1,7 +1,7 @@
 ### Team (your team name here)
 
 ### Team Members
-* first_name last_name (uniqname)
+* elise odell (odelle)
 * first_name last_name (uniqname)
 * first_name last_name (uniqname)
 * first_name last_name (uniqname)
